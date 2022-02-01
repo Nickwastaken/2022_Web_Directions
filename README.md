@@ -20,7 +20,7 @@ Min 1 Per Project: List **(Either Ordered or Unordered, student's choice)**
 
 Min 1 Per Project: Image Gallery **(Counts as one of your 5 pages)**
 
-All elements must be styled with CSS or Bootstrap *whenver possible*. **Not by HTML Attributes**
+All elements must be styled with CSS or Bootstrap *whenever possible*. **Not by HTML Attributes**
 
 Navigation should be fully formed and designed in either CSS or Bootstrap, student's choice.
 
